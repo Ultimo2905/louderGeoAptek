@@ -1,2 +1,2 @@
-# louderGeoAptek
-Louder GeoAptek
+# louderGeoApteka
+Louder GeoApteka
